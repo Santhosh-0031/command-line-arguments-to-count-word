@@ -34,10 +34,10 @@ print(len(a))
 ```
 
 ### OUTPUT:
-![Screenshot 2023-12-24 185926](https://github.com/Santhosh-0031/command-line-arguments-to-count-word/assets/145551108/c3daa597-814f-4bd5-928d-5a4fd24d49dc)
+![Screenshot 2023-12-29 190223](https://github.com/Santhosh-0031/command-line-arguments-to-count-word/assets/145551108/d334c338-02bb-4848-bbe8-00c60c045e32)
 
 i) TEXT FILE
-![Screenshot 2023-12-24 190046](https://github.com/Santhosh-0031/command-line-arguments-to-count-word/assets/145551108/7ecf7b76-67a9-46fa-a669-6dea041095f9)
+![Screenshot 2023-12-29 190223](https://github.com/Santhosh-0031/command-line-arguments-to-count-word/assets/145551108/69aaceb5-0a91-49ba-a32f-54f0e3e6b6ec)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
